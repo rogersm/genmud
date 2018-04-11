@@ -1,5 +1,5 @@
 CFLAGS = -c -Wall -pedantic -g
-LFLAGS = -lpthread -lcrypt
+LFLAGS = -lpthread
 
 
 OBJS =  aff.o alias.o areagen.o areagen2.o auction.o bank.o battle.o \
