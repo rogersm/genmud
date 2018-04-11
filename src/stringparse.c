@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include <malloc.h>
+
 #include <stdarg.h>
 #include "serv.h"
 

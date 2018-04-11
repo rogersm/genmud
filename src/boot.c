@@ -6,7 +6,6 @@
 #include <string.h>
 #include <time.h>
 #include <unistd.h>
-#include <malloc.h>
 #include <pthread.h>
 #include "serv.h"
 #include "note.h"
